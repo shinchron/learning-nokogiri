@@ -5,6 +5,7 @@
 事前にVagrantにログインしておく。
 
 ```
+$ cd vagrant-debian
 $ vagrant up
 $ vagrant ssh
 ```
