@@ -1,5 +1,7 @@
 # learning-nokogiri: Nokogiriの練習
 
+これはgit pushのテストです。
+
 ## 始め方
 
 事前にVagrantにログインしておく。
